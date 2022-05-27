@@ -1,3 +1,12 @@
+
+gsap.from('.ul li',{ opacity:0, x:20, duration:1.5,  stagger:0.5 })
+
+gsap.from('#discovery',{ opacity:0, x:20, duration:1.5,  scale:0.5, rotate: 90})
+
+gsap.from('#touchè',{ opacity:0, duration:2,  scale:0.5,})
+
+
+
 let nav =  document.querySelector('.nav')
 let ab = document.querySelector('.colorAbout')
 
