@@ -8,7 +8,7 @@
     background-size: contain;
     background-attachment: fixed;
     width: 100%;
-    max-width: 105rem;
+    max-width: 165rem;
     height: 34.5rem;
     border-radius: 1rem;
 }
@@ -208,7 +208,7 @@ a:hover{
     height: 15rem;
     background-attachment: fixed;
     width: 100%;
-    max-width: 105rem;
+    max-width: 165rem;
     margin-top: 5rem;
     
    
@@ -225,7 +225,7 @@ background-size: cover;
     height: 15rem;
     background-attachment: fixed;
     width: 100%;
-    max-width: 105rem;
+    max-width: 165rem;
     margin-top: 5rem;
     
    
@@ -415,7 +415,7 @@ background-size: cover;
     justify-content: center;
     align-items: center;
     width: 100%;
-    max-width: 105rem;
+    max-width: 165rem;
     height: 34.5rem;
     border-radius: 1rem;
     flex-wrap: wrap;
