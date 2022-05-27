@@ -445,9 +445,14 @@ background-size: cover;
 
 
 .tell{
+     margin-top: 1rem;
     background-color: rgb(125, 186, 40);
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 3rem;
-    width: 100%;
+    width: 80%;
+    max-width: 50srem;
     text-align: center;
     border-radius: 1rem;
     color: white;
